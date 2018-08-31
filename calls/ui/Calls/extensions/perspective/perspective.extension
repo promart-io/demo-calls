@@ -1,0 +1,5 @@
+{
+	"description": "Calls perspective",
+	"extensionPoint": "launchpad-contacts-perspective",
+	"module": "calls/ui/Calls/extensions/perspective/perspective.js"
+}

@@ -1,0 +1,5 @@
+{
+	"description": "Calls menu",
+	"extensionPoint": "shell-calls-menu",
+	"module": "calls/views/Calls/menu/item.js"
+}

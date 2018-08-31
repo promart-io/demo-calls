@@ -1,0 +1,5 @@
+{
+	"description": "Calls tiles",
+	"extensionPoint": "launchpad-contacts-tiles",
+	"module": "calls/ui/Calls/views/Calls/extensions/tile/tile.js"
+}

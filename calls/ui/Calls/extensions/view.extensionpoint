@@ -1,0 +1,4 @@
+{
+	"description": "Extension Point for the Calls View Providers",
+	"name": "launchpad-contacts-Calls-view"
+}

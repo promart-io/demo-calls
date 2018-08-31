@@ -1,0 +1,5 @@
+{
+	"description": "Calls view",
+	"extensionPoint": "launchpad-contacts-Calls-view",
+	"module": "calls/ui/Calls/views/Calls/extensions/view.js"
+}

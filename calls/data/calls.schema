@@ -1,0 +1,33 @@
+{
+    "schema": {
+        "structures": [
+            {
+                "name": "CALLS",
+                "type": "TABLE",
+                "columns": [
+                    {
+                        "type": "INTEGER",
+                        "length": 0,
+                        "primaryKey": true,
+                        "identity": true,
+                        "nullable": true,
+                        "name": "CALL_ID"
+                    }, {
+                        "type": "INTEGER",
+                        "length": 0,
+                        "nullable": true,
+                        "name": "CALL_CUSTOMER_ID"
+                    }, {
+                        "type": "VARCHAR",
+                        "length": 256,
+                        "nullable": true,
+                        "name": "CALL_DESCRIPTION"
+                    }, {
+                        "type": "DATE",
+                        "length": 0,
+                        "nullable": true,
+                        "name": "CALL_DATE"
+                    }]
+            }]
+    }
+}
